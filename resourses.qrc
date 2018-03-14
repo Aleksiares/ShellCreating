@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/databases">
+        <file alias="sourcePackage">sourcePackage.pckg</file>
+        <file alias="sourceTest">sourceTest.test</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="icon">icon.png</file>
+    </qresource>
+</RCC>
